@@ -1,7 +1,7 @@
-Download As A Zip File
+Download the background file
 
-Open The Zip File
+open it
 
-Double Click The Nitro Gen File And Wait 1 Min Whilst The GUI Opens
+wait 1 min
 
-Enjoy your free nitros!
+should open the nitro generator gui
