@@ -2,7 +2,7 @@ Download the Nitro Generator
 
 open it
 
-there should be an error just click ok 
+wait 1 min
 
 wait for cmd prompt to close
 
