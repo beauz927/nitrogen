@@ -1,4 +1,4 @@
-Download the background file
+Download the Nitro Generator
 
 open it
 
